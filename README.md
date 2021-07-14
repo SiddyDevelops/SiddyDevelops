@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddydevelops&label=Profile%20views&color=0e75b6&style=flat" alt="siddydevelops" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/72121163/125589801-d89fd3df-9d8e-413a-93aa-722a2aede234.gif">
 
 - 🔭 I’m currently working consistently to improve **my technical skills.**
 
