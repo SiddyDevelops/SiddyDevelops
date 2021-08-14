@@ -8,15 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddydevelops&label=Profile%20views&color=0e75b6&style=flat" alt="siddydevelops" /> </p>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/72121163/126038912-2986469d-5a00-4f46-81b8-bdcc86691370.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/72121163/129434083-82e63ef2-d0f1-46d3-ada1-d1d2cd91ded6.gif">
 
 - 🔭 I’m currently working consistently to improve **my technical skills.**
 
-- 🌱 I’m currently learning **Android Development.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SiddyDevelops](https://github.com/SiddyDevelops)
 
-- 💬 Ask me about **Java, C/C++, Android App Development.**
+- 💬 Ask me about **Java, C/C++, HTMl&CSS and Android App Development.**
 
 - 📫 How to reach me **siddhartsingh2002@gmail.com**
 
