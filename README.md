@@ -37,3 +37,7 @@
 
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddydevelops&show_icons=true&count_private=true&theme=radical)
 
+<h3 align="left">Productivity Stats📈</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddydevelops&theme=monokai"  display=block width=80% height=auto  alt="1" >
+
+
