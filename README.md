@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddydevelops&label=Profile%20views&color=0e75b6&style=flat" alt="siddydevelops" /> </p>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/72121163/129434083-82e63ef2-d0f1-46d3-ada1-d1d2cd91ded6.gif">
+<!-- <img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/72121163/129434083-82e63ef2-d0f1-46d3-ada1-d1d2cd91ded6.gif"> -->
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/RJaiws3GnVHcybdk0l/giphy.gif" height="175px"/>
 
 - 🔭 I’m currently working consistently to improve **my technical skills.**
 
