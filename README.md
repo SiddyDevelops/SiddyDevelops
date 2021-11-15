@@ -37,6 +37,7 @@
 <h2 align="left">📝My latest Blogs:</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0" alt="Recent Article 0"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
 
 <h2 align="left">🚀GitHub Stats:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddydevelops&show_icons=true&locale=en&layout=compact&theme=radical" alt="siddydevelops" /></p>
