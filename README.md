@@ -53,13 +53,10 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
   <a href="https://github.com/SiddyDevelops/Detect-My-Mask" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/SiddyDevelops/Detect-My-Mask" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <br />
         <a target="_blank" href="https://github.com/SiddyDevelops/Detect-My-Mask">
-            <img src="res/DetectMyMaskGIF.gif" width="100%"  height="265px" alt="Detect My Mask"/>
+            <img src="res/DetectMyMaskGIF.gif" width="100%"  height="650px" alt="Detect My Mask"/>
         </a>
         <p>Detect My Mask is an Android Application which is powered by a TensorLite ML Model which is programmed and trained to detect whether a person is wearing a mask or not. It uses the camera (both front and rear) to search a mask and uses the HighestProbrabilityIndex to find a mask.</p>
     </td>
