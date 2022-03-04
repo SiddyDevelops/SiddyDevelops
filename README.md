@@ -35,33 +35,33 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
       <h3>Aldo</h3>
         <br />
       <p>
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/SiddyDevelops/Aldo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
   </a>
         </p>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%"  height="265px" alt="Travel App"/>
+        <a target="_blank" href="https://github.com/SiddyDevelops/Aldo">
+            <img src="res/gif1.gif" width="100%"  height="265px" alt="Aldo"/>
         </a>
-        <p><strong>ALDO is a free education app for the young programmers who are desiring to master the concepts of Data Structure and Algorithms by offering practice exercises, instructional videos, reference books, code for every algorithm, and the visualization tool.</p>
+        <p>ALDO is a free education app for the young programmers who are desiring to master the concepts of Data Structure and Algorithms by offering practice exercises, instructional videos, reference books, code for every algorithm, and the visualization tool.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Rigley 2: "Flappy Bug"</h3>
+      <h3>Detect My Mask"</h3>
         <br />
         <p>
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/SiddyDevelops/Detect-My-Mask" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://github.com/SiddyDevelops/Detect-My-Mask" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <br />
-        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  height="265px" alt="Rigley 2"/>
+        <a target="_blank" href="https://github.com/SiddyDevelops/Detect-My-Mask">
+            <img src="res/DetectMyMaskGIF.gif" width="100%"  height="265px" alt="Detect My Mask"/>
         </a>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p>Detect My Mask is an Android Application which is powered by a TensorLite ML Model which is programmed and trained to detect whether a person is wearing a mask or not. It uses the camera (both front and rear) to search a mask and uses the HighestProbrabilityIndex to find a mask.</p>
     </td>
   </tr>
   
