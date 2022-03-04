@@ -47,7 +47,6 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
     </td>
     <td width="33%" valign="top">
       <h3>Detect My Mask"</h3>
-        <br />
         <p>
           
   <a href="https://github.com/SiddyDevelops/Detect-My-Mask" target="_blank">
