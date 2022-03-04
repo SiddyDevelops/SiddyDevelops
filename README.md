@@ -26,6 +26,84 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0" alt="Recent Article 0"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1" alt="Recent Article 1">
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
+   
+<h2 align="left">💡Wall of Projects:</h2>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Aldo</h3>
+        <br />
+      <p>
+  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
+  </a>
+        </p>
+        <br />
+        <a target="_blank" href="http://travelara.herokuapp.com">
+            <img src="images/gif1.gif" width="100%"  height="265px" alt="Travel App"/>
+        </a>
+        <p><strong>ALDO is a free education app for the young programmers who are desiring to master the concepts of Data Structure and Algorithms by offering practice exercises, instructional videos, reference books, code for every algorithm, and the visualization tool.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Rigley 2: "Flappy Bug"</h3>
+        <br />
+        <p>
+          
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  height="265px" alt="Rigley 2"/>
+        </a>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Portfolio</h3>
+        <br />
+        <p>
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Matching Cards</h3>
+        <br />
+        <p>
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="left">🚀GitHub Stats:</h2>
    
