@@ -1,5 +1,3 @@
-
-
 <p align="center"> <img src="https://user-images.githubusercontent.com/72121163/125606969-61f54c0e-a65c-4745-a78a-c8d2f0c2d899.jpg" /> </p>
 
 
@@ -31,8 +29,7 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
 
 <h2 align="left">🚀GitHub Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddydevelops&show_icons=true&locale=en&layout=compact&theme=radical" alt="siddydevelops" /></p>
-
+   
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddydevelops&show_icons=true&count_private=true&theme=radical)
   
 <h3 align="left">🛠️Tools and Technologies:</h3>
