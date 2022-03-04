@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-<h3 align="center">A tech-enthusiast who is keen to learn all the development techniques.</h3>
+<h3 align="center">A curiosity driven tech-enthusiast who is keen to learn all the development techniques.</h3>
 
 <p align="center">
   <a href="https://siddydevelops.github.io/" target="_blank">
