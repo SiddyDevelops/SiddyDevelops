@@ -39,7 +39,7 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
   </a>
         </p>
         <a target="_blank" href="https://github.com/SiddyDevelops/Aldo">
-            <img src="res/gif1.gif" width="100%"  height="265px" alt="Aldo"/>
+            <img src="res/gif1.gif" width="100%" height="650px" alt="Aldo"/>
         </a>
         <p>ALDO is a free education app for the young programmers who are desiring to master the concepts of Data Structure and Algorithms by offering practice exercises, instructional videos, reference books, code for every algorithm, and the visualization tool.</p>
     </td>
@@ -60,39 +60,29 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
   
   <tr>
     <td width="33%" valign="top">
-      <h3>Portfolio</h3>
-        <br />
+      <h3>InstaStoryView</h3>
         <p>
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://github.com/SiddyDevelops/InstaStoryView" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
   </a>
       </p>
-        <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://github.com/SiddyDevelops/InstaStoryView">
+          <img src="res/InstaStoryViewGIF.gif" height="650px" width="100%" alt="InstaStoryView"/>
         </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Library: </strong>The InstaStoryView is a custom Android library which is hosted on Jitpack. This library allows user to easily use the Instagram-Story like features in their Android Applications.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Matching Cards</h3>
-        <br />
+      <h3>CustomLottieDialogBox</h3>
         <p>
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://github.com/SiddyDevelops/CustomLottieDialogBox-Android" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
   </a>
       </p>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://github.com/SiddyDevelops/CustomLottieDialogBox-Android/">
+          <img src="res/CustomLottieDialogGIF.gif" height="650px" width="100%" alt="CustomLottieDialogBox"/>
         </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>Library: </strong>CAn android library which facilitate developers to add customized loading Dialog-Boxes to their android apps. Users can add Lottie Animations of thier wish or can choose from the already existing animation and can change the backgroung color, text color, size of dialog box or can add their own custom text using this library.</p>
     </td>
   </tr>
 </table>
