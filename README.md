@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=MEDIUM&color=0e75b6&style=flat&logo=medium&logo-color=white"/>
   </a>
   <a href="https://www.instagram.com/_siddy_08_/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=0e75b6&style=flat&logo=instagram&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=0e75b6&style=flat&logo=instagram&logo-color=white"/>
   </a>
 </p>
 
