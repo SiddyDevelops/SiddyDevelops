@@ -33,13 +33,11 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
   <tr>
     <td width="33%" valign="top">
       <h3>Aldo</h3>
-        <br />
       <p>
   <a href="https://github.com/SiddyDevelops/Aldo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
   </a>
         </p>
-        <br />
         <a target="_blank" href="https://github.com/SiddyDevelops/Aldo">
             <img src="res/gif1.gif" width="100%"  height="265px" alt="Aldo"/>
         </a>
@@ -53,7 +51,6 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
   </a>
       </p>
-        <br />
         <a target="_blank" href="https://github.com/SiddyDevelops/Detect-My-Mask">
             <img src="res/DetectMyMaskGIF.gif" width="100%"  height="650px" alt="Detect My Mask"/>
         </a>
