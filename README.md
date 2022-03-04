@@ -39,7 +39,7 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
   </a>
         </p>
         <a target="_blank" href="https://github.com/SiddyDevelops/Aldo">
-            <img src="res/gif1.gif" width="100%" height="650px" alt="Aldo"/>
+            <img src="res/AldoGIF.gif" width="100%" height="650px" alt="Aldo"/>
         </a>
         <p>ALDO is a free education app for the young programmers who are desiring to master the concepts of Data Structure and Algorithms by offering practice exercises, instructional videos, reference books, code for every algorithm, and the visualization tool.</p>
     </td>
