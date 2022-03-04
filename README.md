@@ -69,7 +69,7 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
         <a target="_blank" href="https://github.com/SiddyDevelops/InstaStoryView">
           <img src="res/InstaStoryViewGIF.gif" height="650px" width="100%" alt="InstaStoryView"/>
         </a>
-        <p><strong>Library: </strong>The InstaStoryView is a custom Android library which is hosted on Jitpack. This library allows user to easily use the Instagram-Story like features in their Android Applications.</p>
+        <p><strong>Library: </strong>A custom Android library which is hosted on Jitpack. This library allows user to easily use the Instagram-Story like features in their Android Applications. All you need to do is add ImageURLs, ProfileURL and what you will get is a progressive and interactive story view in which you can pause a progressive story and move forwards or backwards.</p>
     </td>
     <td width="33%" valign="top">
       <h3>CustomLottieDialogBox</h3>
@@ -82,7 +82,7 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
         <a target="_blank" href="https://github.com/SiddyDevelops/CustomLottieDialogBox-Android/">
           <img src="res/CustomLottieDialogGIF.gif" height="650px" width="100%" alt="CustomLottieDialogBox"/>
         </a>
-        <p><strong>Library: </strong>CAn android library which facilitate developers to add customized loading Dialog-Boxes to their android apps. Users can add Lottie Animations of thier wish or can choose from the already existing animation and can change the backgroung color, text color, size of dialog box or can add their own custom text using this library.</p>
+        <p><strong>Library: </strong>An android library which facilitate developers to add customized loading Dialog-Boxes to their android apps. Users can add Lottie Animations of thier wish or can choose from the already existing animation and can change the backgroung color, text color, size of dialog box or can add their own custom text using this library.</p>
     </td>
   </tr>
 </table>
