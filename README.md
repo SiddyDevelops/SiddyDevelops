@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/72121163/125606969-61f54c0e-a65c-4745-a78a-c8d2f0c2d899.jpg" /> </p>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/72121163/156747318-cf32082f-dfde-495b-a98a-dfd129d01c62.png" /> </p>
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">A curiosity driven tech-enthusiast who is keen to learn all the development techniques.</h3>
