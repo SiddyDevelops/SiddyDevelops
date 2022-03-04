@@ -28,66 +28,21 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
    
 <h2 align="left">💡Wall of Projects:</h2>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Aldo</h3>
-      <p>
-  <a href="https://github.com/SiddyDevelops/Aldo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
-  </a>
-        </p>
-        <a target="_blank" href="https://github.com/SiddyDevelops/Aldo">
-            <img src="res/AldoGIF.gif" width="100%" height="650px" alt="Aldo"/>
-        </a>
-        <p>ALDO is a free education app for the young programmers who are desiring to master the concepts of Data Structure and Algorithms by offering practice exercises, instructional videos, reference books, code for every algorithm, and the visualization tool.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Detect My Mask"</h3>
-        <p>
-          
-  <a href="https://github.com/SiddyDevelops/Detect-My-Mask" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <a target="_blank" href="https://github.com/SiddyDevelops/Detect-My-Mask">
-            <img src="res/DetectMyMaskGIF.gif" width="100%"  height="650px" alt="Detect My Mask"/>
-        </a>
-        <p>Detect My Mask is an Android Application which is powered by a TensorLite ML Model which is programmed and trained to detect whether a person is wearing a mask or not. It uses the camera (both front and rear) to search a mask and uses the HighestProbrabilityIndex to find a mask.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="33%" valign="top">
-      <h3>InstaStoryView</h3>
-        <p>
-  <a href="https://github.com/SiddyDevelops/InstaStoryView" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <a target="_blank" href="https://github.com/SiddyDevelops/InstaStoryView">
-          <img src="res/InstaStoryViewGIF.gif" height="650px" width="100%" alt="InstaStoryView"/>
-        </a>
-        <p><strong>Library: </strong>A custom Android library which is hosted on Jitpack. This library allows user to easily use the Instagram-Story like features in their Android Applications. All you need to do is add ImageURLs, ProfileURL and what you will get is a progressive and interactive story view in which you can pause a progressive story and move forwards or backwards.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>CustomLottieDialogBox</h3>
-        <p>
-          
-  <a href="https://github.com/SiddyDevelops/CustomLottieDialogBox-Android" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0e75b6&style=flat&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <a target="_blank" href="https://github.com/SiddyDevelops/CustomLottieDialogBox-Android/">
-          <img src="res/CustomLottieDialogGIF.gif" height="650px" width="100%" alt="CustomLottieDialogBox"/>
-        </a>
-        <p><strong>Library: </strong>An android library which facilitate developers to add customized loading Dialog-Boxes to their android apps. Users can add Lottie Animations of thier wish or can choose from the already existing animation and can change the backgroung color, text color, size of dialog box or can add their own custom text using this library.</p>
-    </td>
-  </tr>
-</table>
-
-
+<div class="scrollmenu" align = "center">
+	<a href = "https://github.com/SiddyDevelops/Aldo">
+ <img width = "195px" src = "res/AldoGIF.gif" />
+ </a>
+	<a href = "https://github.com/SiddyDevelops/Detect-My-Mask">
+ <img width = "195px" src = "res/DetectMyMaskGIF.gif" />
+ </a>
+<a href = "https://github.com/SiddyDevelops/InstaStoryView">
+ <img width = "195px" src = "res/InstaStoryViewGIF.gif" />
+ </a>
+<a href = "https://github.com/SiddyDevelops/CustomLottieDialogBox-Android">
+ <img width = "195px" src = "res/CustomLottieDialogGIF.gif" />
+ </a>
+</div>
+   
 <h2 align="left">🚀GitHub Stats:</h2>
    
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddydevelops&show_icons=true&count_private=true&theme=radical)
