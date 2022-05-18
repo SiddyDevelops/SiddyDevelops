@@ -42,6 +42,21 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
  <img width = "195px" src = "res/CustomLottieDialogGIF.gif" />
  </a>
 </div>
+	 
+<div class="scrollmenu" align = "center">
+	<a href = "https://github.com/SiddyDevelops/Blogaro">
+ <img width = "195px" src = "res/BlogaroGIF.gif" />
+ </a>
+	<a href = "https://github.com/SiddyDevelops/NewsDaily">
+ <img width = "195px" src = "res/NewsGIF.gif" />
+ </a>
+<a href = "https://github.com/SiddyDevelops/Spotify-Kotlin">
+ <img width = "195px" src = "res/SpotifyCloneGIF.gif" />
+ </a>
+<a href = "https://github.com/SiddyDevelops/Download-wallpaper-and-setbackground">
+ <img width = "195px" src = "res/WallpaperGIF.gif" />
+ </a>
+</div>
    
 <h2 align="left">🚀GitHub Stats:</h2>
    
