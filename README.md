@@ -30,32 +30,32 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
 <h2 align="left">💡Wall of Projects:</h2>
 <div class="scrollmenu" align = "center">
 	<a href = "https://github.com/SiddyDevelops/Aldo">
- <img width = "195px" src = "res/AldoGIF.gif" />
- </a>
+ 	<img width = "195" src = "res/AldoGIF.gif" />
+ 	</a>
 	<a href = "https://github.com/SiddyDevelops/Detect-My-Mask">
- <img width = "195px" src = "res/DetectMyMaskGIF.gif" />
- </a>
-<a href = "https://github.com/SiddyDevelops/InstaStoryView">
- <img width = "195px" src = "res/InstaStoryViewGIF.gif" />
- </a>
-<a href = "https://github.com/SiddyDevelops/CustomLottieDialogBox-Android">
- <img width = "195px" src = "res/CustomLottieDialogGIF.gif" />
- </a>
+	 <img width = "195" src = "res/DetectMyMaskGIF.gif" />
+ 	</a>
+	<a href = "https://github.com/SiddyDevelops/InstaStoryView">
+ 	<img width = "195" src = "res/InstaStoryViewGIF.gif" />
+ 	</a>
+	<a href = "https://github.com/SiddyDevelops/CustomLottieDialogBox-Android">
+	<img width = "195" src = "res/CustomLottieDialogGIF.gif" />
+ 	</a>
 </div>
 	 
 <div class="scrollmenu" align = "center">
 	<a href = "https://github.com/SiddyDevelops/Blogaro">
- <img width = "195px" src = "res/BlogaroGIF.gif" />
- </a>
+ 	<img width = "195" src = "res/BlogaroGIF.gif" />
+ 	</a>
 	<a href = "https://github.com/SiddyDevelops/NewsDaily">
- <img width = "195px" src = "res/NewsGIF.gif" />
- </a>
-<a href = "https://github.com/SiddyDevelops/Spotify-Kotlin">
- <img width = "195px" src = "res/SpotifyCloneGIF.gif" />
- </a>
-<a href = "https://github.com/SiddyDevelops/Download-wallpaper-and-setbackground">
- <img width = "195px" src = "res/WallpaperGIF.gif" />
- </a>
+ 	<img width = "195" src = "res/NewsGIF.gif" />
+ 	</a>
+	<a href = "https://github.com/SiddyDevelops/Spotify-Kotlin">
+ 	<img width = "195" src = "res/SpotifyCloneGIF.gif" />
+ 	</a>
+	<a href = "https://github.com/SiddyDevelops/Download-wallpaper-and-setbackground">
+ 	<img width = "195" src = "res/WallpaperGIF.gif" />
+ 	</a>
 </div>
    
 <h2 align="left">🚀GitHub Stats:</h2>
