@@ -1,4 +1,4 @@
-<p align="center"> <img src="res/SiddyDevelops-Header.png" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/72121163/174301963-cc67fc9b-20ee-4809-a060-0e0c348e7484.svg" /> </p>
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">A curiosity driven tech-enthusiast who is keen to learn all the development techniques.</h3>
