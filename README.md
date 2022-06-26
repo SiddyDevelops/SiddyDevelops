@@ -25,7 +25,8 @@ I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisiti
 <h2 align="left">📝My latest Blogs:</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0" alt="Recent Article 0"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1" alt="Recent Article 1">
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/3" alt="Recent Article 3">
    
 <h2 align="left">💡Wall of Projects:</h2>
 <div class="scrollmenu" align = "center">
