@@ -22,12 +22,17 @@
 
 I am Siddharth Singh, a tech-enthusiast and an avid developer. I am an inquisitive and energetic computer science student full of useful leadership skills and a strong foundation in mathematics, programming and logic. I hope to leverage my solid development skills while focusing on collaboration, passion and creativity into an engineering role that allows me to create engaging projects with beautiful user experience.
 
-<h2 align="left">📝My latest Blogs:</h2>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1" alt="Recent Article 0"> 
+<h2 align="left">📝My latest Blogs: <a href="https://medium.com/@SiddyDevelops">Siddharth Singh</a></h2>
+<p align="center">
+<img gravity="center" align="center" height="1000" width = "750" src = "https://github.com/SiddyDevelops/SiddyDevelops/assets/72121163/1f6a10bb-9244-4d52-ab4e-999948ac085e" />
+</p>
+<!-- ![medium blog board](https://github.com/SiddyDevelops/SiddyDevelops/assets/72121163/1f6a10bb-9244-4d52-ab4e-999948ac085e) -->
+
+<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/0" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SiddyDevelops/4" alt="Recent Article 4"> -->
    
 <h2 align="left">💡Wall of Projects:</h2>
 <div class="scrollmenu" align = "center">
